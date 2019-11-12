@@ -1,4 +1,4 @@
-const checkbox = document.querySelector('#modals');
+const modalsElement = document.querySelector('#modals');
 const config = { childList: true, subtree: true };
 
 const callback = mutationsList => {
@@ -13,4 +13,4 @@ const callback = mutationsList => {
 
 const observer = new MutationObserver(callback);
 
-observer.observe(checkbox, config);
+observer.observe(modalsElement, config);
