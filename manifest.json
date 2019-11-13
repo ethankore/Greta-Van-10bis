@@ -1,8 +1,8 @@
 {
-  "name": "No Hadap by Tal Koren",
+  "name": "Greta Van 10bis",
   "version": "1.0.0",
   "manifest_version": 2,
-  "description": "Disable one time Plastic cutlery on 10bis",
+  "description": "Disable one time use Plastic cutlery on 10bis",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
