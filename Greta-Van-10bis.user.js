@@ -6,6 +6,7 @@
 // @match        http*://*.10bis.co.il/*
 // @match        http*://10bis.co.il/*
 // @grant        none
+// @updateURL    https://github.com/tkore/Greta-Van-10bis/raw/master/Greta-Van-10bis.user.js
 // ==/UserScript==
 
 (function() {
