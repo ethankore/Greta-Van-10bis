@@ -2,7 +2,10 @@
 A Chrome & Firefox extension that automatically opts-out from ordering Plastic cutlery on 10bis.co.il.
 
 Extension URLs:
-[Fireox](https://addons.mozilla.org/en-US/firefox/addon/greta-van-10bis/) | 
+[Fireox](https://addons.mozilla.org/en-US/firefox/addon/greta-van-10bis)
+|
+[Greasemonkey Userscript](https://github.com/tkore/Greta-Van-10bis/raw/master/Greta-Van-10bis.user.js)
+|
 <s>[Chrome (Awaiting approval)]()</s>
 
 ## What's with the name?
