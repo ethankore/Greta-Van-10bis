@@ -16,5 +16,5 @@ That, along with the fact that [Greta Van Fleet](https://en.wikipedia.org/wiki/G
 <br>
 
 <p align="center">
-  <img src="./no-hadap.png">
+  <img src="./screenshot.png">
 </p>
