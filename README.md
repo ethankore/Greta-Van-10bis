@@ -8,6 +8,8 @@ Extension URLs:
 |
 <s>[Chrome (Awaiting approval)]()</s>
 
+Also, you can download the [Google Chrome .crx file](https://github.com/tkore/Greta-Van-10bis/raw/master/Greta%20Van%2010bis.crx) (available until the extension gets approved by Google; apparently it takes time)
+
 ## What's with the name?
 [Greta Thunberg](https://en.wikipedia.org/wiki/Greta_Thunberg) is a Swedish environmental activist on climate change whose campaigning has gained international recognition.
 
