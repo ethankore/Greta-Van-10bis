@@ -2,11 +2,12 @@
 A Chrome & Firefox extension that automatically opts-out from ordering Plastic cutlery on 10bis.co.il.
 
 Extension URLs:
+[Google Chrome](https://chrome.google.com/webstore/detail/greta-van-10bis/feomodgjijapbcblcgdjkjjkgjplmhpa)
+|
 [Fireox](https://addons.mozilla.org/en-US/firefox/addon/greta-van-10bis)
 |
 [Greasemonkey Userscript](https://github.com/tkore/Greta-Van-10bis/raw/master/Greta-Van-10bis.user.js)
-|
-[Google Chrome](https://chrome.google.com/webstore/detail/greta-van-10bis/feomodgjijapbcblcgdjkjjkgjplmhpa)
+
 
 ## What's with the name?
 [Greta Thunberg](https://en.wikipedia.org/wiki/Greta_Thunberg) is a Swedish environmental activist on climate change whose campaigning has gained international recognition.
