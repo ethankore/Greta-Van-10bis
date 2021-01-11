@@ -12,7 +12,7 @@
 (function() {
 
   const a = 'asd';
-
+  // lala
   const modalsElement = document.querySelector('#modals');
 
   const config = { childList: true, subtree: true };
