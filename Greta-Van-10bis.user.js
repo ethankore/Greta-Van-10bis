@@ -10,6 +10,9 @@
 // ==/UserScript==
 
 (function() {
+
+  const a = 'asd';
+
   const modalsElement = document.querySelector('#modals');
 
   const config = { childList: true, subtree: true };
